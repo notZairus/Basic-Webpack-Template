@@ -6,7 +6,7 @@ module.exports = {
   mode: 'development',
   devtool: 'inline-source-map',
   entry: {
-    script: './src/js/script.js',
+    script: './src/script.js',
   },
   output: {
     filename: '[name].bundle.js',
